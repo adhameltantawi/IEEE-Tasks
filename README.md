@@ -4,7 +4,7 @@ A collection of my solutions to the weekly tasks assigned as part of my journey 
 
 ---
 
-## 🚀 Goals of This Repository
+## 🚀 Goals of Thi s Repository
 
 * Improve problem-solving and analytical thinking for data science
 * Strengthen Python and data science foundations through consistent practice
