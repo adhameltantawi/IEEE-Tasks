@@ -15,7 +15,7 @@ A collection of my solutions to the weekly tasks assigned as part of my journey 
 
 ## 📅 Weeks
 
-### Week 1
+### Week 1 - 🐍Python Basics
 * 001_python_string_split_and_join.py
 * 002_py_if_else.py
 * 003_the_last_2_digits.py
@@ -23,9 +23,12 @@ A collection of my solutions to the weekly tasks assigned as part of my journey 
 * 005_swap_case.py
 * 006_two_intervals.py
 
-### Week 2
-* on progress
+### Week 2 - 🐍OOP in Python
+* Data_Lab_System.py — Mini OOP data lab: filter, merge & analyze datasets using pure Python
+* README.md          # Project documentation
 
+### Week 3 - 🔢Numpy
+* on progress
 ---
 
 ## 🗂️ Structure
