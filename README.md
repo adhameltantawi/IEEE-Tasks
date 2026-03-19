@@ -28,8 +28,8 @@ A collection of my solutions to the weekly tasks assigned as part of my journey 
 * Advanced_Python_Task.ipynb — The task
 * README.md — Project documentation
 
-### Week 3 - 🔢Numpy
-* on progress
+### Week 3 - 🔢 Statistics & Numpy
+StatisticsAndNumpy.ipynb —  Descriptive statistics & NumPy-powered analysis on real datasets
 ---
 
 ## 🗂️ Structure
