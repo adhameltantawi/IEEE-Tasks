@@ -11,29 +11,59 @@ A collection of my solutions to the weekly tasks assigned as part of my journey 
 * Build a habit of weekly challenges and structured learning
 * Document my progress in a clear, organised way
 
-```
+# 📚 Learning Roadmap
 
-## 📅 Weeks
+---
 
-### Week 1 - 🐍Python Basics
-* 001_python_string_split_and_join.py
-* 002_py_if_else.py
-* 003_the_last_2_digits.py
-* 004_list_comprehensions.py
-* 005_swap_case.py
-* 006_two_intervals.py
+## 📅 Weeks Breakdown
 
-### Week 2 - 🐍OOP in Python
-* Data_Lab_System.py — Mini OOP data lab: filter, merge & analyze datasets using pure Python
-* Advanced_Python_Task.ipynb — The task
-* README.md — Project documentation
+### 🐍 Week 1 — Python Basics
+> Core fundamentals of Python
 
-### Week 3 - 🔢 Statistics & Numpy
-* StatisticsAndNumpy.ipynb —  Descriptive statistics & NumPy-powered analysis on real datasets
+- `001_python_string_split_and_join.py`
+- `002_py_if_else.py`
+- `003_the_last_2_digits.py`
+- `004_list_comprehensions.py`
+- `005_swap_case.py`
+- `006_two_intervals.py`
 
-### Week 4 - Numpy
-* numpy_exercises.ipynb
-```
+---
+
+### 🧱 Week 2 — OOP in Python
+> Object-Oriented Programming concepts & mini project
+
+- `Data_Lab_System.py`  
+  → Mini OOP Data Lab: filter, merge & analyze datasets using pure Python
+
+- `Advanced_Python_Task.ipynb`  
+  → Main task notebook
+
+- `README.md`  
+  → Project documentation
+
+---
+
+### 📊 Week 3 — Statistics & NumPy
+> Data analysis fundamentals
+
+- `StatisticsAndNumpy.ipynb`  
+  → Descriptive statistics & NumPy-powered analysis on real datasets
+
+---
+
+### 🔢 Week 4 — NumPy Practice
+> Hands-on exercises
+
+- `numpy_exercises.ipynb`
+
+---
+
+## 🚀 Summary
+- Week 1: Python Basics  
+- Week 2: OOP + Mini Project  
+- Week 3: Statistics + NumPy  
+- Week 4: Practice & Exercises  
+
 
 ## 🗂️ Structure
 
