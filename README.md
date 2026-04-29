@@ -11,7 +11,7 @@ A collection of my solutions to the weekly tasks assigned as part of my journey 
 * Build a habit of weekly challenges and structured learning
 * Document my progress in a clear, organised way
 
----
+```
 
 ## 📅 Weeks
 
@@ -29,8 +29,11 @@ A collection of my solutions to the weekly tasks assigned as part of my journey 
 * README.md — Project documentation
 
 ### Week 3 - 🔢 Statistics & Numpy
-StatisticsAndNumpy.ipynb —  Descriptive statistics & NumPy-powered analysis on real datasets
----
+* StatisticsAndNumpy.ipynb —  Descriptive statistics & NumPy-powered analysis on real datasets
+
+### Week 4 - Numpy
+* numpy_exercises.ipynb
+```
 
 ## 🗂️ Structure
 
